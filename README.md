@@ -55,4 +55,16 @@ The analysis includes visual representations such as:
 
 ---
 
-## 📁 Repository Structure
+
+## 💡 Key Insights
+- Extracted meaningful patterns from the dataset
+- Identified key trends and relationships
+- Detected outliers that may impact analysis results
+- Improved understanding of data distribution and structure
+
+---
+
+## 🚀 Conclusion
+This project demonstrates the importance of Exploratory Data Analysis in understanding data before building any models or making business decisions. It provides a strong foundation for further advanced analytics and modeling.
+
+---
